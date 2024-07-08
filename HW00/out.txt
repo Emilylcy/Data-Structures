@@ -1,0 +1,33 @@
+zipcode: Bryn Mawr, PA
+
+zipcode: Jayuya, PR
+
+zipcode: Brooklyn, NY
+
+zipcode: Chevy Chase, MD
+
+zipcode: Saint Petersburg, FL
+
+zipcode: Pineville, KY
+
+zipcode: Hinckley, MN
+
+zipcode: Fremont, NE
+
+zipcode: Seminole, OK
+
+zipcode: Shiprock, NM
+
+zipcode: Santa Barbara, CA
+
+zipcode: Ketchikan, AK
+
+zipcode: No such zipcode
+
+zipcode: No such zipcode
+
+zipcode: No such zipcode
+
+zipcode: No such zipcode
+
+zipcode: Good Bye!
